@@ -1,0 +1,276 @@
+body {
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  font-weight: 400;
+  color: #707070;
+}
+
+.section-jumbotron {
+  background-color: #F5F2E7;
+}
+
+.section-jumbotron .navbar a {
+  color: #707070;
+}
+
+.section-jumbotron .navbar ul li a {
+  color: #707070 !important;
+}
+
+.section-jumbotron .navbar .active {
+  font-weight: 700;
+}
+
+.section-jumbotron .btn {
+  background-color: #DA9842;
+  color: white !important;
+}
+
+.section-jumbotron .btn:hover {
+  background-color: #db8d26;
+  color: white;
+}
+
+.section-jumbotron .title-jumbotron h3 {
+  font-size: 48px;
+  font-weight: 700;
+  font-family: 'Playfair Display';
+}
+
+.section-jumbotron .title-jumbotron .btn-katalog {
+  text-decoration: none;
+}
+
+.section-content {
+  margin-top: 100px;
+}
+
+.section-content h3 {
+  font-size: 48px;
+  font-weight: 700;
+  font-family: 'Playfair Display';
+}
+
+.section-content p {
+  font-size: 20px;
+}
+
+.section-content .btn {
+  background-color: #DA9842;
+  color: white;
+}
+
+.section-content .picture-one {
+  min-height: 420px;
+  border-bottom-right-radius: 50px;
+  background-image: url("assets/photo-1598524817357-f7d55f772246.jpg");
+  background-position: -140px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section-content .picture-two {
+  min-height: 268px;
+  border-top-right-radius: 50px;
+  background-size: cover;
+  background-position: -140px;
+  background-repeat: no-repeat;
+}
+
+.section-produk {
+  background-color: #F5F2E7;
+  margin-top: 100px;
+}
+
+.section-produk h4 {
+  font-size: 40px;
+  font-family: 'Playfair Display';
+}
+
+.section-produk .btn-beli {
+  background-color: #DA9842;
+  color: white;
+  height: 40px;
+  width: 70%;
+  border-radius: 50px;
+  font-size: 20px;
+}
+
+.section-produk .btn-beli a {
+  list-style-type: none;
+}
+
+.section-produk .btn-beli:hover {
+  background-color: #db8d26;
+  color: white;
+}
+
+.section-up {
+  margin-top: 100px;
+  background-color: #F5F2E7;
+}
+
+.section-up h4 {
+  font-size: 40px;
+  font-family: 'Playfair Display';
+}
+
+footer {
+  margin-top: 100px;
+  background-color: #173334;
+}
+
+footer a {
+  color: #707070 !important;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.section-bred {
+  margin-top: 50px;
+  background-color: transparent !important;
+  color: #db8d26;
+}
+
+.section-bred a {
+  color: #db8d26;
+}
+
+.section-bred .active {
+  font-weight: 700;
+  color: #db8d26;
+}
+
+.section-details {
+  background-color: #F5F2E7;
+  margin-top: 50px;
+}
+
+.section-details .title-produk {
+  font-family: 'Playfair Display';
+  font-size: 30px;
+  padding-bottom: 5px;
+}
+
+.section-details .harga {
+  font-size: 20px;
+  color: #DA9842;
+  font-weight: 700;
+}
+
+.section-details .text-comment {
+  background-color: white;
+  border-radius: 3px;
+}
+
+.section-details .btn-beli {
+  background-color: #DA9842;
+  color: white;
+}
+
+.section-details .btn-beli a {
+  list-style-type: none;
+}
+
+.section-details .btn-beli:hover {
+  background-color: #db8d26;
+  color: white;
+}
+
+.section-details .bg-produk {
+  background-color: white;
+}
+
+.section-details .btn-tambah {
+  background-color: #173334;
+}
+
+.section-cart {
+  background-color: #F5F2E7;
+  margin-top: 50px;
+}
+
+.section-cart h4 {
+  font-size: 40px;
+  font-family: 'Playfair Display';
+}
+
+.section-cart .btn-beli {
+  background-color: #DA9842;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.section-cart .btn-beli a {
+  list-style-type: none;
+}
+
+.section-cart .btn-beli:hover {
+  background-color: #db8d26;
+  color: white;
+}
+
+.section-cart .btn-lanjut {
+  background-color: #707070;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.section-cart .btn-lanjut a {
+  list-style-type: none;
+}
+
+.section-cart .btn-lanjut:hover {
+  background-color: #db8d26;
+  color: white;
+}
+
+.section-cart .pembayaran {
+  margin-bottom: 25px;
+}
+
+.section-cart .pembayaran .product-title {
+  font-weight: 700;
+}
+
+.store-cart {
+  background-color: #F5F2E7;
+  margin-top: 50px;
+}
+
+.section-katalog {
+  background-color: #F5F2E7;
+  margin-top: 50px;
+}
+
+.section-katalog .btn-beli {
+  background-color: #DA9842;
+  color: white;
+  height: 40px;
+  width: 70%;
+  border-radius: 50px;
+  font-size: 20px;
+}
+
+.section-katalog .btn-beli a {
+  list-style-type: none;
+}
+
+.section-katalog .btn-beli:hover {
+  background-color: #db8d26;
+  color: white;
+}
+
+.section-cari .btn-cari {
+  background-color: #DA9842;
+  color: white;
+}
+
+.section-cari .btn-cari a {
+  list-style-type: none;
+}
+
+.section-cari .btn-cari:hover {
+  background-color: #db8d26;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */

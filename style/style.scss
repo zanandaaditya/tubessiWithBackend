@@ -1,0 +1,246 @@
+body{
+    font-family: 'Montserrat', Helvetica, sans-serif;
+    font-weight: 400;
+    color: #707070;
+}
+.section-jumbotron{
+    background-color: #F5F2E7;
+
+    .navbar{
+        a{
+            color: #707070;
+        }
+        ul{
+            li{
+                a{
+                    color: #707070 !important;
+                }
+            }
+        }
+        .active{
+            font-weight: 700;
+        }
+    }
+    .btn{
+        background-color: #DA9842;
+        color:white !important;
+    }
+    .btn:hover{
+        background-color: #db8d26;
+        color:white;
+    }
+    .title-jumbotron{
+        h3{
+            font-size: 48px;
+            font-weight: 700;
+            font-family: 'Playfair Display';
+        }
+        .btn-katalog{
+            text-decoration: none;
+        }
+    }
+}
+
+.section-content{
+    margin-top: 100px;
+    h3{
+        font-size: 48px;
+        font-weight: 700;
+        font-family: 'Playfair Display';
+    }
+    p{
+        font-size: 20px;
+    }
+    .btn{
+        background-color: #DA9842;
+        color:white;
+    }
+    .picture-one{
+        min-height: 420px;
+        border-bottom-right-radius: 50px;
+        background-image: url("assets/photo-1598524817357-f7d55f772246.jpg");
+        background-position: -140px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .picture-two{
+        min-height: 268px;
+        border-top-right-radius: 50px;
+        background-size: cover;
+        background-position: -140px;
+        background-repeat: no-repeat;
+    }
+}
+
+.section-produk{
+    background-color: #F5F2E7;
+    margin-top: 100px;
+    h4{
+        font-size: 40px;
+        font-family: 'Playfair Display';
+    }
+    .btn-beli{
+        background-color: #DA9842;
+        color:white;
+        height: 40px;
+        width: 70%;
+        border-radius: 50px;
+        font-size: 20px;
+        a{
+            list-style-type: none;
+        }
+    }
+    .btn-beli:hover{
+        background-color: #db8d26;
+        color:white;
+    }
+}
+
+.section-up{
+    margin-top: 100px;
+    background-color: #F5F2E7;
+    h4{
+        font-size: 40px;
+        font-family: 'Playfair Display';
+    }
+}
+
+footer{
+    margin-top: 100px;
+    background-color: #173334;
+    a{
+        color: #707070 !important;
+        text-decoration: none;
+        list-style-type: none;
+    }
+}
+
+.section-bred{
+    margin-top: 50px;
+    background-color: transparent !important;
+    color: #db8d26;
+    a{
+        color: #db8d26;
+    }
+        .active{
+            font-weight: 700;
+            color: #db8d26;
+        }
+    }
+
+.section-details{
+    background-color: #F5F2E7;
+    margin-top: 50px;
+    .title-produk{
+        font-family: 'Playfair Display';
+        font-size: 30px;
+        padding-bottom: 5px;
+    }
+    .harga{
+        font-size: 20px;
+        color: #DA9842;
+        font-weight: 700;
+    }
+    .text-comment{
+        background-color: white;
+        border-radius: 3px;
+    }
+    .btn-beli{
+        background-color: #DA9842;
+        color:white;
+        a{
+            list-style-type: none;
+        }
+    }
+    .btn-beli:hover{
+        background-color: #db8d26;
+        color:white;
+    }
+    .bg-produk{
+
+        background-color: white;
+    }
+    .btn-tambah{
+        background-color: #173334;
+    }
+}
+
+.section-cart{
+    background-color: #F5F2E7;
+    margin-top: 50px;
+    h4{
+        font-size: 40px;
+        font-family: 'Playfair Display';
+    }
+    .btn-beli{
+        background-color: #DA9842;
+        color:white;
+        margin-bottom: 20px;
+        a{
+            list-style-type: none;
+        }
+    }
+    .btn-beli:hover{
+        background-color: #db8d26;
+        color:white;
+    }
+    .btn-lanjut{
+        background-color: #707070;
+        color:white;
+        margin-bottom: 20px;
+        a{
+            list-style-type: none;
+        }
+    }
+    .btn-lanjut:hover{
+        background-color: #db8d26;
+        color:white;
+    }
+    .pembayaran{
+        margin-bottom: 25px;
+        .product-title{
+            font-weight: 700;
+        }
+    }
+}
+
+.store-cart{
+    background-color: #F5F2E7;
+    margin-top: 50px;
+}
+
+
+.section-katalog{
+    background-color: #F5F2E7;
+    margin-top: 50px;
+
+    .btn-beli{
+        background-color: #DA9842;
+        color:white;
+        height: 40px;
+        width: 70%;
+        border-radius: 50px;
+        font-size: 20px;
+        a{
+            list-style-type: none;
+        }
+    }
+    .btn-beli:hover{
+        background-color: #db8d26;
+        color:white;
+    }
+}
+
+.section-cari{
+    .btn-cari{
+        background-color: #DA9842;
+        color:white;
+        a{
+            list-style-type: none;
+        }
+    }
+    .btn-cari:hover{
+        background-color: #db8d26;
+        color:white;
+    }
+}
